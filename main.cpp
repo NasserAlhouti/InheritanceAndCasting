@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector> // we need this to store a list of our cars by using std::vector
+#include <vector> // we need this to store a list of our animals by using std::vector
 typedef struct Location
 {
   float X;
